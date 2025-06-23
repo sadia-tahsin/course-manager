@@ -13,14 +13,14 @@ A fullstack Next.js application for managing and enrolling in courses. Features 
 - **Authentication**: JWT (token stored in `localStorage`)
 
   
-## 🧑‍💻 Features
+##  Features
 
-### 👤 User Role:
+### User Role:
 - View all courses
 - Enroll in available courses
 - View enrolled courses (`/my-courses`)
 
-### 🛠️ Admin Role:
+###  Admin Role:
 - Create, update, delete courses
 - Admin dashboard available after login if `role` is `admin`
 
